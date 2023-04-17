@@ -1,4 +1,4 @@
-# go-hacker-code
+# go-hacker-book-code
 
 助安社区黑帽编程计划 - HCP（Hacker Coding Plan） ，Go 黑帽编程学习源码。
 
