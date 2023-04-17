@@ -3,4 +3,4 @@ Go 黑客编程课件，全系列关注b站【[助安社区](https://space.bilib
 
 ## 公众号
 
-![坤哥微信](https://static.sechelper.com/img/qrcode/12x8-qrcode-sechelper.jpg)
+![坤哥微信](https://static.sechelper.com/img/qrcode/sechelper_group_qr.png)
