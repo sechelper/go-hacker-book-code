@@ -2,16 +2,17 @@ package main
 
 import (
 	"fmt"
-	"go-scope/scope"
+	scope2 "go-scope/scope"
 )
 
+var Count = 1
+
+const User = "admin"
+
+type Password string
+
+var pwd Password = "admin"
+
 func main() {
-	// 包名.函数
-	// package.func
-	scope.A()
-	// package.var
-	fmt.Println(scope.BStr)
-	// test.b() // 无法调用
-	scope.C()
-	fmt.Println()
+	fmt.Println(scope2.Username)
 }
